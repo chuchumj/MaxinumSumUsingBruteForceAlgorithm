@@ -1,4 +1,4 @@
-//Program to calculate maximum sum using brute force algorithm
+//Program to calculate maximum sum of numbers  using brute force algorithm
 import java.util.Scanner;
 public class MaxinumSum {
 
