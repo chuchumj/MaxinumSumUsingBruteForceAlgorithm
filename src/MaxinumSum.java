@@ -1,6 +1,6 @@
 //Program to calculate maximum sum using brute force algorithm
 import java.util.Scanner;
-public class Assignment1 {
+public class MaxinumSum {
 
     public static void main(String args[]) {
         Scanner scanner = new Scanner(System.in);
